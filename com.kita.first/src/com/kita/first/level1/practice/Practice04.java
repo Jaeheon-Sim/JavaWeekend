@@ -2,7 +2,7 @@ package com.kita.first.level1.practice;
 
 import java.util.Scanner;
 
-public class Pratice04 {
+public class Practice04 {
 	public static void main(String[] args) {
 		int i=0,num=0;
 		Scanner scan = new Scanner(System.in);

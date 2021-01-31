@@ -2,7 +2,7 @@ package com.kita.first.level1.practice;
 
 import java.util.Scanner;
 
-public class Pratice02 {
+public class Practice02 {
 	public static void main(String[] args) {
 		//Á¤¼ö°ª ÀÔ·Â,È¦ Â¦ ±¸ºÐ
 		
