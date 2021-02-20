@@ -2,6 +2,8 @@ package com.kita.first.level1.practice;
 
 import java.util.Scanner;
 
+import com.kita.first.level2.Method1;
+
 public class Practice05 {
 	public static void main(String[] args) {
 		
