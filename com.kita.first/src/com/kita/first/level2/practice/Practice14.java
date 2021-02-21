@@ -3,7 +3,7 @@ package com.kita.first.level2.practice;
 public class Practice14 {
 	public static void main(String[] args) {
 		
-		int[][] grade = {{67,49,87},{89,92,56},{76,39,98}};
+		int[][] grade = {{67,49,87,34,39},{89,92,56},{76,39,98}};
 		//국 영 수 합 ,평균 
 		//성적 합 배열
 		String[] cls= {"국어","수학","영어"};

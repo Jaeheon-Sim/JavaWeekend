@@ -19,6 +19,7 @@ public class Method1 {
 		
 		return n1-n2;
 	}
+
 }
 
 
